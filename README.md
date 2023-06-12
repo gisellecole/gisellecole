@@ -1,16 +1,18 @@
-### Hi there 👋
+# 💫 About Me:
+Hi there 👋<br>🔭 I’m currently working on expanding my skills as a developer and taking on various front-end projects. I enjoy working with HTML, CSS, and JavaScript to create visually appealing and user-friendly websites.<br><br>🌱 I’m currently learning React to enhance my knowledge of building dynamic and interactive web applications. I'm excited to explore the possibilities that React offers.<br><br>👯 I’m looking to collaborate on open-source projects or join a team where I can contribute my skills and learn from other talented developers. Collaborating with like-minded individuals is always a great opportunity for growth and knowledge sharing.<br><br>⚡ Fun fact: When I'm not coding, you can find me playing tennis, assembling Legos, or in the kitchen cooking delicious meals for my husband. I enjoy staying active, being creative, and exploring my culinary skills.<br><br>Looking forward to connecting with you and learning together!
 
-<!--
-**gisellecole/gisellecole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giselle-cole) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@giselle_c0le) 
 
-🔭 I’m currently working on expanding my skills as a developer and taking on various front-end projects. I enjoy working with HTML, CSS, and JavaScript to create visually appealing and user-friendly websites.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gisellecole&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gisellecole&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellecole&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 I’m currently learning React to enhance my knowledge of building dynamic and interactive web applications. I'm excited to explore the possibilities that React offers.
+---
+[![](https://visitcount.itsvg.in/api?id=gisellecole&icon=0&color=3)](https://visitcount.itsvg.in)
 
-👯 I’m looking to collaborate on open-source projects or join a team where I can contribute my skills and learn from other talented developers. Collaborating with like-minded individuals is always a great opportunity for growth and knowledge sharing.
-
-⚡ Fun fact: When I'm not coding, you can find me playing tennis, assembling Legos, or in the kitchen cooking delicious meals for my husband. I enjoy staying active, being creative, and exploring my culinary skills.
-
-Looking forward to connecting with you and learning together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
