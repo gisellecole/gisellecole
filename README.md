@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hi there 👋<br>🔭 I’m currently working on expanding my skills as a developer and taking on various front-end projects. I enjoy working with HTML, CSS, and JavaScript to create visually appealing and user-friendly websites.<br><br>🌱 I’m currently learning React to enhance my knowledge of building dynamic and interactive web applications. I'm excited to explore the possibilities that React offers.<br><br>👯 I’m looking to collaborate on open-source projects or join a team where I can contribute my skills and learn from other talented developers. Collaborating with like-minded individuals is always a great opportunity for growth and knowledge sharing.<br><br>Looking forward to connecting with you and learning together!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselle-cole-39b788113/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@giselle_c0le) 
